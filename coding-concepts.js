@@ -64,4 +64,6 @@ console.log(typeof dataTypes.length)
 // a) Your answer:
 //Sjiuld give the length of the datatype
 // b) Verify and explain:
+
 //Incorrect, showed numbers
+
