@@ -85,3 +85,4 @@ for(let i = 0; i < stockExchange.length; i++){
 }
 
 //Spit out only odd numbers
+
